@@ -1,4 +1,4 @@
-# Traveous-Crypto-project
+# Crypto-project
 
 In this samll project I created a GUI of Cryptocurrencies-Tracker by using Python and Tkinter module.
 
