@@ -1,8 +1,7 @@
 # Traveous-Crypto-project
 
-In this assignment it is just a GUI of Cryptocurrencies-Tracker created using Python and Tkinter module.
+In this samll project I created a GUI of Cryptocurrencies-Tracker by using Python and Tkinter module.
 
-Unfortunately I could not make it using the given langauges i.e react or flutter . But I made a GUI using Python in Jupyter notebook.
-I made this by learning Basics of Tkinter module , I wanted to make it look nice and wanted to add even more functions , but since time was less I made it in a hurry and with only little basics.  
+This is not fully completed. In this I used only 3 cryptos i.e Bitcoin, Etherium, Litecoin. In his GUI when the user clicks any one cypto it displays the live cypto trading value. I made this by learning Basics of Tkinter module but, I am still learning.
 
 
